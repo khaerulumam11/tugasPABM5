@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">M5-SI3904-36-KHAERUL UMAM</string>
+
+    <string-array name="labels_array">
+
+        <item>USD</item>
+
+        <item>IDR</item>
+
+        <item>YEN</item>
+
+
+    </string-array>
+</resources>
